@@ -2,7 +2,7 @@
 --------------
 
 ## Project Description
-This project contains a series of queries in response to the specific needs of a fictional client. The client needed a relational database for managing their employees. This project explored creating, an auditing system, automating bulk data operations, creating flexible querying tools and improving error handling and logging.
+This project contains a series of queries in response to the specific needs of a fictional client. The client needed a relational database for managing their employees. This project explored creating, an auditing system, automating bulk data operations, creating flexible querying tools, and improving error handling and logging.
 
 ### This Project Explores
 - Triggers: These were used in the creation of an audit log system to track changes in employee salaries, ensuring transparency and compliance with company policies.
